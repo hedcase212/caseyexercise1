@@ -1,0 +1,40 @@
+article {
+  background-color: ivory;
+  border: 1px solid gray;
+  border-radius: 3px;
+  margin-top: 2rem;
+  margin-left 15%;
+  padding: 1.9rem;
+  padding-bottom: .05rem;
+  padding-top: .05rem;
+  width: 20.8rem;
+}
+
+dd {
+    display: list-item;
+    list-style-type: disc;
+    }
+
+.redText {
+  color: red;
+}
+.blueText {
+  color: blue;
+}
+.greenText {
+  color: green;
+}
+
+.sentanceUnderline {
+  text-decoration: underline;
+}
+
+.linethruText {
+  text-decoration: line-through;
+}
+footer {
+    background-color:white;
+    color:black;
+    clear:both;
+    text-align:center;
+   padding:5px;   
